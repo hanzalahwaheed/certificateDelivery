@@ -1,0 +1,17 @@
+{
+    "name": "pdf-certificate-generator",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.18.2",
+        "moment": "^2.24.0",
+        "nodemailer": "^6.9.3",
+        "pdfkit": "^0.11.0"
+    }
+}
